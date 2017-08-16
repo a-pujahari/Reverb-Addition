@@ -1,0 +1,29 @@
+C:\Users\Abhinav\Desktop\Edited Excerpts\Audio_Files_Modified\Classical\Test Files\Classical_prod.wav
+C:\Users\Abhinav\Desktop\Edited Excerpts\Audio_Files_Modified\Classical\Test Files\Classical_math.wav
+C:\Users\Abhinav\Desktop\Edited Excerpts\Audio_Files_Modified\Classical\Test Files\Classical_spec.wav
+C:\Users\Abhinav\Desktop\Edited Excerpts\Audio_Files_Modified\Classical\Test Files\Classical_unrev.wav
+C:\Users\Abhinav\Desktop\Edited Excerpts\Audio_Files_Modified\Classical\Test Files\Classical_lpf.wav
+
+C:\Users\Abhinav\Desktop\Edited Excerpts\Audio_Files_Modified\Drum&Bass\Test Files\DrumnBass_prod.wav
+C:\Users\Abhinav\Desktop\Edited Excerpts\Audio_Files_Modified\Drum&Bass\Test Files\DrumnBass_math.wav
+C:\Users\Abhinav\Desktop\Edited Excerpts\Audio_Files_Modified\Drum&Bass\Test Files\DrumnBass_spec.wav
+C:\Users\Abhinav\Desktop\Edited Excerpts\Audio_Files_Modified\Drum&Bass\Test Files\DrumnBass_unrev.wav
+C:\Users\Abhinav\Desktop\Edited Excerpts\Audio_Files_Modified\Drum&Bass\Test Files\DrumnBass_lpf.wav
+
+C:\Users\Abhinav\Desktop\Edited Excerpts\Audio_Files_Modified\HeavyMetal\Test Files\HeavyMetal_prod.wav
+C:\Users\Abhinav\Desktop\Edited Excerpts\Audio_Files_Modified\HeavyMetal\Test Files\HeavyMetal_math.wav
+C:\Users\Abhinav\Desktop\Edited Excerpts\Audio_Files_Modified\HeavyMetal\Test Files\HeavyMetal_spec.wav
+C:\Users\Abhinav\Desktop\Edited Excerpts\Audio_Files_Modified\HeavyMetal\Test Files\HeavyMetal_unrev.wav
+C:\Users\Abhinav\Desktop\Edited Excerpts\Audio_Files_Modified\HeavyMetal\Test Files\HeavyMetal_lpf.wav
+
+C:\Users\Abhinav\Desktop\Edited Excerpts\Audio_Files_Modified\Pop\Test Files\Pop_prod.wav
+C:\Users\Abhinav\Desktop\Edited Excerpts\Audio_Files_Modified\Pop\Test Files\Pop_math.wav
+C:\Users\Abhinav\Desktop\Edited Excerpts\Audio_Files_Modified\Pop\Test Files\Pop_spec.wav
+C:\Users\Abhinav\Desktop\Edited Excerpts\Audio_Files_Modified\Pop\Test Files\Pop_unrev.wav
+C:\Users\Abhinav\Desktop\Edited Excerpts\Audio_Files_Modified\Pop\Test Files\Pop_lpf.wav
+
+C:\Users\Abhinav\Desktop\Edited Excerpts\Audio_Files_Modified\Songwriter\Test Files\Songwriter_prod.wav
+C:\Users\Abhinav\Desktop\Edited Excerpts\Audio_Files_Modified\Songwriter\Test Files\Songwriter_math.wav
+C:\Users\Abhinav\Desktop\Edited Excerpts\Audio_Files_Modified\Songwriter\Test Files\Songwriter_spec.wav
+C:\Users\Abhinav\Desktop\Edited Excerpts\Audio_Files_Modified\Songwriter\Test Files\Songwriter_unrev.wav
+C:\Users\Abhinav\Desktop\Edited Excerpts\Audio_Files_Modified\Songwriter\Test Files\Songwriter_lpf.wav
